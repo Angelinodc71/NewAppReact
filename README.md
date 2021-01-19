@@ -1,15 +1,15 @@
 # NewAppReact
 
-## Create New Project
+### Create New Project
 
 $ expo init NameProject
 
 Template: blank
 
-## Start new project
+### Start new project
 
 $ cd NameProject
 
 $ npm start
 
-$npm run web
+$ npm run web
