@@ -1,4 +1,4 @@
-# NewAppReact
+# NewAppReact in Expo
 
 ### Create New Project
 
